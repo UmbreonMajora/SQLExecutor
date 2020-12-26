@@ -1,0 +1,6 @@
+name: SQLExecutor
+main: me.umbreon.sqlexecutor.SQLExecutor
+version: 1.0
+description: Allows executing SQL statements via Minecraft chat.
+commands:
+  sql:

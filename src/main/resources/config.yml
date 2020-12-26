@@ -1,0 +1,8 @@
+# SQL Executor
+
+database:
+  host:
+  user:
+  password:
+  username:
+  database:
